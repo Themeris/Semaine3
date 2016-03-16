@@ -1,0 +1,33 @@
+#header
+{
+    width: auto;
+    height: 200px;
+    background-color: #DFE5E4;
+
+}
+.left
+{
+    float: left; 
+    width: 450;
+    height: auto;
+}
+.right
+{
+    float: right;
+    width: 250px;
+    height:auto;
+    background-color: #6DC00D;
+}
+img
+{
+    float: left;
+    border: solid white 3px;
+    border-radius: 50%;
+    margin-top: 10;
+    margin-left: 20;
+}
+.nom
+{
+    font-size: 50;
+    font-family: Impact;
+}
